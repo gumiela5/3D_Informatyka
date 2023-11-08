@@ -1,0 +1,21 @@
+     Nazwa z wytłumaczeniem:                 Przykłady:
+1. or - operator logiczny "lub"               Tak lub nie => Tak
+2. not - operatot logiczny "nie"              Nie prawda => Fałsz
+3. in - operator zawierania w sekwencji       1 w (1,2,3) => Prawda
+4. is - operator identyczności                X jest Y => Prawda
+5. < - mniejsze niż              1<3 => Prawda
+6. > - większe niż               3>1 => Prawda
+7. >= - większe lub równe        5>=5 => Prawda 
+8. <= - mniejsze lub równe       7<=9 => Prawda
+9. and - operator logiczny "i"       
+10. + - dodawanie                 2+3 => 5
+11. - - odejmowanie               3-2 => 1
+12. * - mnożenie                  3*3 => 9
+13. / - dzielenie                 9/3 => 3
+14. % - reszta z dzielenia        7%3 => 1
+15. // - dzielenie całkowite      5//2 => 2
+16. ** - potęgowanie              2**2 => 4
+17. == - równość                  8==8 => Prawda
+18. != - nierówność               1!=0 => Prawda
+
+
